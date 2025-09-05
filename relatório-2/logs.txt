@@ -1,0 +1,98 @@
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Yves
+Digite o e-mail do aluno: yvesan12@gmail.com
+Digite o curso do aluno: GEC
+Aluno Yves cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Alice
+Digite o e-mail do aluno: alice@gmail.com
+Digite o curso do aluno: GES
+Aluno Alice cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Good
+Digite o e-mail do aluno: boobiegoods@gmail.com
+Digite o curso do aluno: GEC
+Aluno Good cadastrado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Nome: Yves, E-mail: yvesan12@gmail.com, Curso: GEC, Matrícula: GEC1
+Nome: Alice, E-mail: alice@gmail.com, Curso: GES, Matrícula: GES1
+Nome: Good, E-mail: boobiegoods@gmail.com, Curso: GEC, Matrícula: GEC2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite o nome do aluno a ser atualizado: Yves
+Digite o novo e-mail: yvesrib@gmail.com
+Digite o novo curso: GES
+Aluno atualizado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Nome: Yves, E-mail: yvesrib@gmail.com, Curso: GES, Matrícula: GES2
+Nome: Alice, E-mail: alice@gmail.com, Curso: GES, Matrícula: GES1
+Nome: Good, E-mail: boobiegoods@gmail.com, Curso: GEC, Matrícula: GEC2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite o nome do aluno a ser removido: Alice
+Aluno removido com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Nome: Yves, E-mail: yvesrib@gmail.com, Curso: GES, Matrícula: GES2
+Nome: Good, E-mail: boobiegoods@gmail.com, Curso: GEC, Matrícula: GEC2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Saindo...
